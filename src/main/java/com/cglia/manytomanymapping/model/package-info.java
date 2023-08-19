@@ -1,0 +1,1 @@
+package com.cglia.manytomanymapping.model;
